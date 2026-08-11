@@ -14,7 +14,7 @@ I'm a data and analytics professional focused on building practical solutions th
 
 ### Featured Project
 
-#### Job Lead Tracker
+**Job Lead Tracker**
 A full-stack job search management application built with Python, Flask, SQLite, SQL, and Bootstrap. The application automates job ingestion from Gmail, stores and manages job and company data in a relational database, and provides a searchable interface for tracking applications, interests, referrals, and company information.
 
 ### What I'm working on
