@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi I'm Brad 👋
 
-<!--
-**Bradman28/Bradman28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data and analytics professional focused on building practical solutions that turn complex business processes into usable, automated tools.
 
-Here are some ideas to get you started:
+Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Power BI
+- Python
+- SQL and SQLite
+- Flask
+- Pandas
+- HTML, CSS, Bootstrap, and Javascript
+- Git and GitHub
+
+Featured Project
+
+Job Lead Tracker
+A full-stack job search management application built with Python, Flask, SQLite, SQL, and Bootstrap. The application automates job ingestion from Gmail, stores and manages job and company data in a relational database, and provides a searchable interface for tracking applications, interests, referrals, and company information.
+
+What I'm working on
+I'm continuing to expand my skills in data analytics, SQL, Python automation, database design, and business intelligence while building tools that solve real-world problems.
